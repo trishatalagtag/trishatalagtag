@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Trisha Angela </h1>
+<h1 align="center">Hello👋, I'm Trisha Angela :3 </h1>
 <h3 align="center">A greenhorn in the Computer Science field; learning from scratch with the assistance of my nerd partner.</h3>
 
 
