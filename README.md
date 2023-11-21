@@ -1,12 +1,10 @@
-<h1 align="center">Hello👋, I'm Sweety!</h1>
+<h1 align="center">Hello👋, I'm Trisha Angela </h1>
 <h3 align="center">A greenhorn in the Computer Science field; learning from scratch with the assistance of my nerd partner.</h3>
 
 
 - 🌱 I’m currently learning how to **code**
 
 - 📫 **trshngltlgtg@gmail.com**
-
-- ⚡ **I like crispy french fries and crispy friend chicken.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
